@@ -12,8 +12,8 @@
 # The file should be modified as for individual use.
 
 NYSCEC_LOGIN_PARAM = {
-    'username': 'your_id',
-    'password': 'your_password'
+    'username': '2018142217',
+    'password': '0112dankim!'
     }
 
 NYSCEC_BASE = 'https://yscec.yonsei.ac.kr'
